@@ -29,7 +29,7 @@ function setup() {
   }
   
   function draw() {
-    background(51, 51, 51)
+    background('#142F44')
 
     for (const particleA of particles)
         for (const particleB of particles)
